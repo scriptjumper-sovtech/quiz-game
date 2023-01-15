@@ -1,0 +1,17 @@
+/Users/scriptjumper/git/quiz-game/quiz-game/bin/Debug/net7.0/quiz-game
+/Users/scriptjumper/git/quiz-game/quiz-game/bin/Debug/net7.0/quiz-game.deps.json
+/Users/scriptjumper/git/quiz-game/quiz-game/bin/Debug/net7.0/quiz-game.runtimeconfig.json
+/Users/scriptjumper/git/quiz-game/quiz-game/bin/Debug/net7.0/quiz-game.dll
+/Users/scriptjumper/git/quiz-game/quiz-game/bin/Debug/net7.0/quiz-game.pdb
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.csproj.AssemblyReference.cache
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.AssemblyInfoInputs.cache
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.AssemblyInfo.cs
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.csproj.CoreCompileInputs.cache
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.dll
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/refint/quiz-game.dll
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.pdb
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.genruntimeconfig.cache
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/ref/quiz-game.dll
+/Users/scriptjumper/git/quiz-game/quiz-game/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/scriptjumper/git/quiz-game/quiz-game/obj/Debug/net7.0/quiz-game.csproj.CopyComplete

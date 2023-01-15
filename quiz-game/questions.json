@@ -1,0 +1,94 @@
+[
+    {
+      "question": "C# is a programming language, developed by ___.",
+      "answers": [
+        "Oracle",
+        "Microsoft",
+        "GNU project",
+        "Google"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "C# runs on the ___.",
+      "answers": [
+        ".NET Framework",
+        "Java Virtual Machine",
+        "Both A. and B",
+        "None of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "C# programming language is used to develop -",
+      "answers": [
+        "Web apps",
+        "Desktop apps",
+        "Mobiles apps",
+        "All of the above"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "Is C# an object-oriented programming language?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Is C++ an alias of C#?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the extension of a C# language file?",
+      "answers": [
+        ".c",
+        ".cpp",
+        ".cs",
+        ".csp"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Who is the founder of C# programming language?",
+      "answers": [
+        "Anders Hejlsberg",
+        "Douglas Crockford",
+        "Rasmus Lerdorf",
+        "Brendan Eich"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Is C# a type safe programming language?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Is C# a structured programming language?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "CLR stands for ___.",
+      "answers": [
+        "Common Type System",
+        "Common Language Specification",
+        "Common Language Runtime",
+        "Java Virtual Machine"
+      ],
+      "correctIndex": 3
+    }
+  ]
